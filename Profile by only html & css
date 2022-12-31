@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+ <title>Your Community</title>
+ </head> 
+ <body>
+ <div><a href="/treelink.html"><img src="https://mimo.app/r/trees.png" class="topicon"><h2>Mudassar Memon</h2></a></div>
+ <div><p>HI THERE!!👋 This is Mudassar Memon frontend devop from Mumbai.</p><figure><img src="https://mimo.app/r/cat.png" class="midimg">
+ <br>
+ <p>looking for new friend🤷‍♂️</p></figure>
+<p>Can you join me @insta
+ <a href="https://www.instagram.com/rain_of_vain.io/"><em>rain_of_vain.io</em>😉</a></p>
+ <button ><a href="/treelink.html">Reach out me!(treelink)</a></button></div><div><br>
+<h3>Images Liabrary</h3>
+<figure><img src="https://mimo.app/r/colosseum.png">
+<img src="https://mimo.app/r/eiffel.png">
+<img src="https://mimo.app/r/beach.png">
+<img src="https://mimo.app/r/market.png">
+<img src="https://mimo.app/r/elcapitan.png">
+<img src="https://mimo.app/r/londoneye.png">
+<img src="https://mimo.app/r/moon.png">
+<img src="https://mimo.app/r/kluane.png">
+<img src="https://mimo.app/r/tokyo.png"></figure></div><br>
+<div><footer><h6 class="copyright">©devmem09</h6><br><p>.</p></footer></div>
+ <script src="script.js"></script>
+</body>
+</html>
